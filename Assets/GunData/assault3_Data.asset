@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21572829179fbb647b15b18a7c32053d, type: 3}
+  m_Name: assault3_Data
+  m_EditorClassIdentifier: 
+  ShotClip: {fileID: 8300000, guid: f0cadf2002e69dd4c867ed1bebb7e1a4, type: 3}
+  ReloadClip: {fileID: 8300000, guid: bf0a6bce5a9ff6f45a77d25f8990dede, type: 3}
+  GunDamage: 20
+  Ammoremain: 150
+  MagAmmo: 50
+  GunAttackTime: 0.06
+  GunReloadTime: 1.2
