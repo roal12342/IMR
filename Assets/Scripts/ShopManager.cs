@@ -19,7 +19,7 @@ public class ShopManager : MonoBehaviour
     private AudioClip ShopClip;
     private InvenManager invenManager;
 
-    public static int Coin = 10000;
+    public static int Coin = 2000;
 
     void Start()
     {

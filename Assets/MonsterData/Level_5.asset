@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2b52247e30a638747a47b50e66bf12ed, type: 3}
-  m_Name: Level_3
+  m_Name: Level_5
   m_EditorClassIdentifier: 
-  MonsterHP: 80
-  MonsterSpeed: 1.2
-  MonsterDamage: 4
+  MonsterHP: 120
+  MonsterSpeed: 1.4
+  MonsterDamage: 6
   MonsterAttackTime: 2
   MonsterDieClip: {fileID: 0}
   MonsterAttackClip: {fileID: 0}

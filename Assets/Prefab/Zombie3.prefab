@@ -2623,7 +2623,7 @@ GameObject:
   - component: {fileID: 8880476979396500399}
   - component: {fileID: 3235376051344778236}
   m_Layer: 0
-  m_Name: Zombie2
+  m_Name: Zombie3
   m_TagString: Monster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2862,7 +2862,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af8b423de1454b14cbed5201c05892d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  monsterData: {fileID: 11400000, guid: 0b344eb9d831dc1458d9b1d0c3c96690, type: 2}
+  monsterData: {fileID: 11400000, guid: b3df157b8f414724d87e90faf4fdebd5, type: 2}
   HitEffect: {fileID: 1213129765327214995}
 --- !u!1 &7241230425663053975
 GameObject:

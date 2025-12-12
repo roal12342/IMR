@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b52247e30a638747a47b50e66bf12ed, type: 3}
   m_Name: Level_2
   m_EditorClassIdentifier: 
-  MonsterHP: 80
-  MonsterSpeed: 1.5
-  MonsterDamage: 4
+  MonsterHP: 60
+  MonsterSpeed: 1.1
+  MonsterDamage: 3
   MonsterAttackTime: 2
   MonsterDieClip: {fileID: 0}
   MonsterAttackClip: {fileID: 0}

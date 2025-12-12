@@ -86,7 +86,7 @@ public class MonsterCreate : MonoBehaviour
     {
         IsCreate = true;
 
-        for (int i = 0; i < MonsterCount * Stage; i++)
+        for (int i = 0; i < MonsterCount * (1+(Stage-1)*0.1); i++)
         {
             float Create_X;
             float Create_Z;

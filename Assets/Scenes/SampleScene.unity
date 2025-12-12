@@ -8900,7 +8900,10 @@ MonoBehaviour:
   StageMonsters:
   - {fileID: 6656923351389298333, guid: 841eee1edfaff41498253b22379a9d2e, type: 3}
   - {fileID: 6966723514002770293, guid: bf33451197ba47f4bbcbc8e7e7ab8c37, type: 3}
+  - {fileID: 6656923351389298333, guid: fc41a91b2fef94e4db06c3c3d4490dab, type: 3}
   - {fileID: 6966723514002770293, guid: cf8d27bec36d48b46b726a0d5a5d4eb7, type: 3}
+  - {fileID: 6656923351389298333, guid: 1757089d52cece345a13470f4ae4ddf2, type: 3}
+  - {fileID: 6966723514002770293, guid: af0289808a8e8d74a89159c1bf317fc9, type: 3}
 --- !u!4 &1979442807
 Transform:
   m_ObjectHideFlags: 0
